@@ -1,0 +1,192 @@
+body{
+    margin:0;
+}
+.text-block {
+    position: absolute;
+    bottom: 150px;
+    right: 20px;
+    color: white;
+    padding-left:  10%;
+    padding-right: 20%;
+    padding-bottom: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+  }
+  span{
+    padding-left: 210px;
+  }
+  .lorem{
+    font-size: 20px;
+    color: white;
+    padding-right: 30%;
+    
+  }
+ .donate{
+    text-decoration: none;
+    position: absolute;
+    background-color: rgb(248, 70, 88);
+    bottom: 20%;
+    right: 50%;
+    color: white;
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    
+ }
+ #donate-today{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+ .lorem-today{
+    text-align: center;
+    color:gray;
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+ .money{
+    display: flex;
+    padding-left: 20%;
+ }
+ .tk{
+    padding-left: 5%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: gray;
+    font-size: 50px;
+ }
+ .border-of-tk{
+    
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: gray;
+    padding-left: 5%;
+ }
+ .border-of-tk h1{
+    background-color: rgb(250, 215, 210);
+    border: 2px solid  rgb(245, 55, 21) ;
+    border-radius: 3px;
+    padding: 5px 2px 5px 2px;
+    color: rgb(245, 55, 21) ;
+    
+ }
+ h2{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 10px
+    color : gray;
+    opacity:40%
+ }
+ .donate-another{
+    text-align: center;  
+    padding: 50px;
+ }
+ .donate-another a{
+    text-decoration: none;  
+    background-color: rgb(248, 70, 88);
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: white ;
+ }
+ #donate-plan{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:50px;
+ }
+ .row-view{
+   display:flex;
+   padding-left: 25%;
+ }
+ .alingment{
+   background-repeat: no-repeat;
+   padding-top: 5%;
+   padding-right: 100px;
+   
+ }
+
+ #food{
+   background-image: url(icons/food.png);
+   border-radius: 2px;
+ }
+ #shelter{
+   background-image: url(icons/shelter.png);
+ }
+ #education{
+   background-image: url(icons/Frame-1.png);
+ }
+ .depends{
+   display: flex;
+   padding-left: 25%;
+   padding-top: 10%;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-size: 30px;
+ }
+ .depends p{ 
+   font-size: 20px;
+ }
+ .depends a{
+   text-decoration: none;  
+    background-color: rgb(248, 70, 88);
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: white ;
+ }
+ .depends img{
+   padding-left: 5%;
+   padding-top: 10%;
+}
+.new-added{
+   padding-top: 10%;
+   text-align: center;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+.new-added p{ 
+   padding-left: 10%;
+   padding-right: 10%;
+}
+.new-image img{
+   padding-left: 20%;
+   padding-right: 10%;
+}
+.new-added a{
+   text-decoration: none;  
+    background-color: rgb(248, 70, 88);
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: white ;
+}
+#additional-anchor{
+   padding: 400px 20px;
+}
+#additional-anchor a{
+
+   text-decoration: none;  
+    background-color: rgb(248, 70, 88);
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: white ;
+}
+.box{
+   padding-left: 35%;
+   padding-top: 10%;
+   padding-bottom: 5%;
+   background-color: bisque;
+}
+footer{
+   background-color: black;
+}
+footer h1{
+   color:red;
+   font-family: 'Playball', cursive;
+   text-align: center;
+   font-size: 100px;
+}
+footer h3{
+   color: white;
+   font-family: 'Playball', cursive;
+   text-align: center;
+   padding-bottom: 5%;
+}
